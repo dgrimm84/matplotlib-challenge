@@ -3,24 +3,25 @@
 # Pymaceuticals Inc. Analysis
 
 ### Primary functions of files included in this repository
-> - The file named "main.ipynb" is in the /Pymaceuticals directory of this repository.  This is a jupyter notebook document containing python code<br>
-> which analyzes the data, runs calculations, and creates visualizations of this data the functions it performs are:<br>
-> - merge two provided csv files to get complete drug regimen study data<br>
-> - calculate the number of mice in the trial<br>
-> - find duplicate mice entries based on Mouse ID and Timepoint columns<br>
-> - capture the data of this duplicate mouse, and then clean the dataframe by removing all rows that reference it<br>
-> - re-count the number of unique mice in the study (248)<br>
-> - calculate mean, median, variance, standard deviation, and standard error for the Tumor Volume (mm3) column, then store in a dataframe<br>
-> - the same calculations as above are performed on one line with the more advanced aggregrate function to show funcionality<br>
-> - create, display, and write to file a bar chart of these results using the pandas.plot.bar function<br>
-> - do the same as above but with the python pyplot function<br>
-> - create, display, and write to file a pie chart using the pandas.plot.pie function<br>
-> - do the same as above but with the python plt.pie function<br>
-> - calculate quartiles and outliers for 4 drugs by using a for loop to cycle through each drug and displaying the results<br>
-> - create a box plot visualizing these calculations<br>
-> - create a line plot of timeplot versus tumor volume for the drug capomulin on one selected mouse<br>
-> - create a scatter plot showing the correlation between mouse weight and average tumor volume and write to file<br>
-> - plot a regression correlation line onto the same scatter plot above and write to file<br><br>
+> - The file named "main.ipynb" is in the /Pymaceuticals directory of this repository.  This is a jupyter notebook<br>
+> containing python code > which analyzes the data, runs calculations, and creates visualizations of this data the
+> functions it performs are:<br>
+> > - merge two provided csv files to get complete drug regimen study data<br>
+> > - calculate the number of mice in the trial<br>
+> > - find duplicate mice entries based on Mouse ID and Timepoint columns<br>
+> > - capture the data of this duplicate mouse, and then clean the dataframe by removing all rows that reference it<br>
+> > - re-count the number of unique mice in the study (248)<br>
+> > - calculate mean, median, variance, standard deviation, and standard error for the Tumor Volume (mm3) column, then store in a dataframe<br>
+> > - the same calculations as above are performed on one line with the more advanced aggregrate function to show funcionality<br>
+> > - create, display, and write to file a bar chart of these results using the pandas.plot.bar function<br>
+> > - do the same as above but with the python pyplot function<br>
+> > - create, display, and write to file a pie chart using the pandas.plot.pie function<br>
+> > - do the same as above but with the python plt.pie function<br>
+> > - calculate quartiles and outliers for 4 drugs by using a for loop to cycle through each drug and displaying the results<br>
+> > - create a box plot visualizing these calculations<br>
+> > - create a line plot of timeplot versus tumor volume for the drug capomulin on one selected mouse<br>
+> > - create a scatter plot showing the correlation between mouse weight and average tumor volume and write to file<br>
+> > - plot a regression correlation line onto the same scatter plot above and write to file<br><br>
 > - In the /data directory, the files contained are:<br>
 > > - Mouse_metadata.csv - contains data for each mouse of the study (ID, Drug Regimen each went through, age, and weight (grams)<br>
 > > - study_results.csv - contains the results of the study based on the mouse ID and includes timepoints, tumor volume at <br>
