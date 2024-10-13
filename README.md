@@ -3,7 +3,15 @@
 # Pymaceuticals Inc. Analysis
 
 ### Primary functions of files included in this repository
+> - The file named "main.ipynb" is in the main directory of this repository.  This is a jupyter notebook document containing python code<br>
+> which analyzes the data, runs calculations, and creates visualizations of this data
+> - In the /data directory, there is are two files:
+> > - Mouse_metadata.csv - contains information for each mouse of the study (ID, Drug Regimen each went through, age, and weight (grams)<br>
+>> - study_results.csv - contains the results of the study based on the mouse ID and includes timepoints, tumor volume at each timepoint,<br>
+>> and metastatic sites measured at each timepoint.
 
+
+### Analysis of drug regimen results on 248 unique mice in this drug trial
 > - Based on the data from the gender pie chart summary calculation, this study had a good and even representation of male vs. female mice<br><br>
 > - Based on the Final Tumor Volume box plot, a conclusion could be drawn that mice on the Capomulin and Ramicane regimens fared better than<br>
 > the mice on the Infubinol and Ceftamin regimens. This is because the tumor volume at the final / latest timepoint for the mice on the<br>
