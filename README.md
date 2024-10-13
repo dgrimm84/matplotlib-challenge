@@ -21,7 +21,7 @@
 ### Analysis of drug regimen results on 248 unique mice in this drug trial
 > - Based on the data from the gender pie chart summary calculation, this study had a good and even representation of male vs. female mice<br><br>
 > - Based on the Final Tumor Volume box plot, a conclusion could be drawn that mice on the Capomulin and Ramicane
-> > regimens fared better than the mice on the Infubinol and Ceftamin regimens. This is because the tumor volume<br>
+> regimens fared better than the mice on the Infubinol and Ceftamin regimens. This is because the tumor volume<br>
 > > at the final / latest timepoint for the mice on the regimens was on average quite a bit smaller on<br>
 > > Capomulin and Ramicane than they were on Infubinol and Ceftamin<br><br><br>
 > - Based on the line plot of mouse B128 on the Capomulin treatment, a decrease in tumor volume over time is<br>
