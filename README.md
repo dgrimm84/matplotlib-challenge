@@ -5,10 +5,16 @@
 ### Primary functions of files included in this repository
 > - The file named "main.ipynb" is in the main directory of this repository.  This is a jupyter notebook document containing python code<br>
 > which analyzes the data, runs calculations, and creates visualizations of this data
-> - In the /data directory, there is are two files:
+> - In the /data directory, there are several files:
 > > - Mouse_metadata.csv - contains information for each mouse of the study (ID, Drug Regimen each went through, age, and weight (grams)<br>
->> - study_results.csv - contains the results of the study based on the mouse ID and includes timepoints, tumor volume at each timepoint,<br>
->> and metastatic sites measured at each timepoint.
+> > - study_results.csv - contains the results of the study based on the mouse ID and includes timepoints, tumor volume at each timepoint,<br>
+> > and metastatic sites measured at each timepoint.<br>
+> > - pandas_bar_plot.png - displays the bar plot created using the pandas method<br>
+> > - pyplot_bar_plot.png - displays the bar plot created using the python plt method<br>
+> > - pandas_pie_plot.png - displays the pie plot created using the pandas pie method<br>
+> > - plt_pie_plot.png - displays the pie plot created using the python plt method<br>
+> > - box_plot.png - displays the box plot created with the quartile and outliers calculations<br>
+> > - line_plot.png - 
 
 
 ### Analysis of drug regimen results on 248 unique mice in this drug trial
