@@ -14,8 +14,9 @@
 > > - pandas_pie_plot.png - displays the pie plot created using the pandas pie method<br>
 > > - plt_pie_plot.png - displays the pie plot created using the python plt method<br>
 > > - box_plot.png - displays the box plot created with the quartile and outliers calculations<br>
-> > - line_plot.png - 
-
+> > - line_plot.png - displays the line plot created with tumor volume vs. timepoint data<br>
+> > - scatter_plot.png - displays the scatter plot created with mouse weight vs. tumor volume correlation<br>
+> > - regression_scatter_plot.png - displays the scatter plot with the regression correlation line plotted as well.<br>
 
 ### Analysis of drug regimen results on 248 unique mice in this drug trial
 > - Based on the data from the gender pie chart summary calculation, this study had a good and even representation of male vs. female mice<br><br>
