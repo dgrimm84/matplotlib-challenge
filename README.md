@@ -3,9 +3,9 @@
 # Pymaceuticals Inc. Analysis
 
 ### Primary functions of files included in this repository
-> - The file named "main.ipynb" is in the /Pymaceuticals directory of this repository.  This is a jupyter notebook<br>
-> containing python code > which analyzes the data, runs calculations, and creates visualizations of this data the
-> functions it performs are:<br>
+> - The file named "main.ipynb" is in the /Pymaceuticals directory of this repository.  This is a jupyter notebook
+> containing python code which analyzes the data, runs calculations, and creates visualizations of this data the
+> functions it performs are:
 > > - merge two provided csv files to get complete drug regimen study data<br>
 > > - calculate the number of mice in the trial<br>
 > > - find duplicate mice entries based on Mouse ID and Timepoint columns<br>
