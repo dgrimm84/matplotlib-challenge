@@ -1,11 +1,10 @@
 <font size="2.5">
 # matplotlib-challenge
 Module 5 Challenge - Matplotlib and Data Visualization
-<font size="2.5">
-
-# Pymaceuticals Inc.
+<br>
+# Pymaceuticals Inc.<br>
+<br>
 ### Analysis
-
 > - Based on the data from the gender pie chart summary calculation, this study had a good and even representation of male vs. female mice<br> 
 <br>
 > - Based on the Final Tumor Volume box plot, a conclusion could be drawn that mice on the Capomulin and Ramicane regimens fared better than<br>
