@@ -4,7 +4,7 @@
 <br>
 # Pymaceuticals Inc.<br>
 <br>
-### Analysis
+### Analysis<br>
 <font size="2.5">
 > - Based on the data from the gender pie chart summary calculation, this study had a good and even representation of male vs. female mice<br> 
 <br>
